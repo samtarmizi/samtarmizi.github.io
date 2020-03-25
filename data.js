@@ -11,11 +11,6 @@ const main = {
       link: 'https://t.me/tarmizisanusi'
     },
     {
-      name: 'Home',
-      iconName: 'logo-firefox',
-      link: 'https://samtarmizi.github.io'
-    },
-    {
       name: 'Github',
       iconName: 'logo-github',
       link: 'https://github.com/samtarmizi'
