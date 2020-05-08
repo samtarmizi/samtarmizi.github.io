@@ -1,7 +1,7 @@
 const main = {
   name: 'Tarmizi Sanusi',
   mail: 'tarmizi@mizi.my',
-  img: 'https://pbs.twimg.com/profile_images/930725240765759489/wX0dmZw4.jpg',
+  img: 'https://avatars1.githubusercontent.com/u/48077864?s=460&u=4afd7a58494a9f1eca5f123f6f0391d0ed5a4293&v=4',
   role: ['Software Developer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
